@@ -1,2 +1,3 @@
 Nahuel Emiliano Gutiérrez Quintana
-![Imagen Alt](1754954968680.jpg…)
+![Imagen Alt]((https://github.com/user-attachments/assets/f88959ed-7a70-4192-a283-2c17f10863a6)
+
