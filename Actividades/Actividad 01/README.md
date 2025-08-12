@@ -1,2 +1,3 @@
 # imt2200_actividad 01
-https://github.com/Skysilen-t/IMT2200-Nahuel-Gutierrez/blob/main/Actividades/Actividad%2001/PoblacionRM_C2017_Gutierrez.jpg
+![PoblacionRM_C2017_Gutierrez](https://github.com/user-attachments/assets/1b879263-0af2-4bf3-8f27-8209e797a0ba)
+
