@@ -8,12 +8,12 @@ Les quiero contar porque estoy haciendo el README en la actividad 01 me pidieron
 ### Carpetas 🗂️
 | Carpeta         | Informacion |
 |----------------|-------------|
-| [🐋 /clases](/clases) | Contenido de la clases |
-| [🦀 /ayudantias](/ayudantias) | Contenidido de las ayudantias |
-| [🦞 /actividades](/actividades) | Actividades de las clases |
-| [🐡 /tareas](/tareas) | No me gusta |
-| [🦑 /interrogaciones](/interrogaciones) | Material y interrogaciones pasadas |
-| [🐟 /proyecto](/proyecto) | Informacion del proyecto |
+| [🐋 /Clases](/clases) | Contenido de la clases |
+| [🦀 /Ayudantias](/ayudantias) | Contenidido de las ayudantias |
+| [🦞 /Actividades](/actividades) | Actividades de las clases |
+| [🐡 /Tareas](/tareas) | No me gusta |
+| [🦑 /Interrogaciones](/interrogaciones) | Material y interrogaciones pasadas |
+| [🐟 /Proyecto](/proyecto) | Informacion del proyecto |
 
 ### Material
 - Python 3.13.5 🐍
